@@ -1,0 +1,159 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin:0;
+}
+
+body{
+    background-color: #FAF0E6;
+}
+
+#container{
+    width:100%;
+    max-width: 1600px;
+    margin:0 auto;    
+    
+}
+
+#titulo{
+    background-color:#FFE4C4;
+    height:80px;
+    text-align: center;
+    color:dimgray;
+}
+
+#titulo h1{
+    padding: 10px;
+}
+
+#menu, #menu2{    
+   text-align: center; 
+   padding:10px;
+}
+
+#menu, #menu2 ul{
+    list-style: none;
+}
+
+#menu2 ul li{
+    text-transform: uppercase;
+}
+
+#menu ul li{
+    display:inline;
+    text-transform: uppercase;
+}
+
+#menu ul li a{
+    display:inline-block;
+    padding:20px;
+    text-decoration: none;
+    color:#8B0000;
+    font-weight: bold;
+   
+}
+
+#menu2 ul li a{
+    padding:20px;
+    text-decoration: none;
+    color:#8B0000;
+    font-weight: bold;
+   
+}
+
+#menu ul li a:hover{
+    color:#fff;
+    background-color:#8B0000;
+}
+
+#capa img{
+    width:100%;
+    height:700px;
+}
+
+.imagens{
+    display: inline-block;
+    margin-left:10px;    
+	width:500px;
+	padding:10px;
+}
+
+.imagens img{
+    width:100%;
+    height:300px;
+}
+
+#rodape{
+    background-color:#FFE4C4;
+    padding:10px;
+    text-align: center;
+    
+}
+
+.rodape2{
+    display: inline-block;
+    width:400px;
+    padding:30px;
+}
+
+.rodape2 img{
+    width:50px;
+    height:50px;
+}
+
+#rodape3 hr{
+    border-color: #8B0000;
+}
+
+#rodape3 h3,h4{
+    padding:10px;
+}
+
+.sobre{	
+    display: inline-block;
+    width:600px;
+    padding:40px;
+	margin-left:30px;
+}
+
+.sobre img{
+	width:100%;
+	height:500px;
+}
+
+#sobre{
+    text-align: center;
+   
+}
+
+.servsobre img{
+    width:150px;
+    height:150px;
+}
+
+.servsobre{
+    display:inline-block;
+    width:400px;
+    padding:40px;
+}
+
+#sobretitulo{
+    background-color: bisque;
+}
+
+.sobre3{
+    display:inline-block;
+    width:500px;
+    padding:30px;
+
+}
+
+.sobre3 img{
+    width:100%;
+    height:500px;
+}
+
+
+
+
+
+
